@@ -1,0 +1,42 @@
+{
+  "name": "passport-todoist",
+  "version": "0.0.1",
+  "description": "Todoist authentication strategy for Passport.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattroconnor/passport-todoist.git"
+  },
+  "keywords": [
+    "passport",
+    "todoist",
+    "authentication",
+    "auth",
+    "authn",
+    "OAuth"
+  ],
+  "author": {
+    "name":"Matt R OConnor",
+    "email": "matt.oconnor217@gmail.com",
+    "url": "http://www.mattroconnor.com/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattroconnor/passport-todoist/issues"
+  },
+  "homepage": "https://github.com/mattroconnor/passport-todoist#readme",
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  },
+  "devDependencies": {
+    "mocha": "1.x.x",
+    "chai": "1.x.x",
+    "chai-passport-strategy": "0.1.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
