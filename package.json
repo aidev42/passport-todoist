@@ -1,6 +1,6 @@
 {
   "name": "passport-todoist",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Todoist authentication strategy for Passport.js",
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
     "OAuth"
   ],
   "author": {
-    "name":"Matt R OConnor",
+    "name": "Matt R OConnor",
     "email": "matt.oconnor217@gmail.com",
     "url": "http://www.mattroconnor.com/"
   },
@@ -27,7 +27,9 @@
   "main": "./lib",
   "dependencies": {
     "passport-oauth2": "1.x.x",
-    "request": "^2.72.0"
+    "request": "^2.72.0",
+    "url": "^0.11.0",
+    "util": "^0.10.3"
   },
   "devDependencies": {
     "mocha": "1.x.x",
