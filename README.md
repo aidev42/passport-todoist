@@ -1,3 +1,3 @@
 # passport-todoist
 
-# still in build, readme to come
+# Build in full production, additional documentation to follow
