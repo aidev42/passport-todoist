@@ -54,7 +54,7 @@ application:
 
 ## Credits
 
-  - [Matt](http://github.com/mattroconnor)
+  - [Matt R O'Connor](http://github.com/mattroconnor)
 
 ## License
 
